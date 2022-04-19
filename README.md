@@ -1,5 +1,5 @@
 # flutter_facebook_clone
-
+<img src="https://github.com/rifqiabrory/flutter-facebook-clone/blob/master/sample-ui.png" width="250" height="600">
 A new Flutter project.
 
 ## Getting Started
